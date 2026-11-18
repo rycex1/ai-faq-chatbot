@@ -1,0 +1,6 @@
+anthropic==2.10.0
+rank-bm25==0.2.2
+numpy==2.5.5
+fastapi==0.163.2
+uvicorn==0.54.0
+python-dotenv==1.2.4
